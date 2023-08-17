@@ -6,6 +6,11 @@ import CanvasLoader from "../Loader";
 const Computers = ({ isMobile }) => {
   const computer = useGLTF("./desktop_pc/scene.gltf");
 
+  if (!computer.scene) {
+    console.error("3D model not loaded properly");
+    return null;
+  }
+
   return (
     <group>
       <hemisphereLight intensity={4.15} groundColor="black" />
