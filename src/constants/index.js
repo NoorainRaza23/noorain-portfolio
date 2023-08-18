@@ -245,7 +245,7 @@ import {
     {
       name: "MY portfolio website",
       description:
-        "Explore my web-based portfolio—a curated exhibit of my creative exploits and professional feats. Unveiling my skills, experiences, and projects, it offers insights into my journey.",
+        "Web-based Portfolio Website—a curated exhibit of my creative exploits and professional feats. Unveiling my skills, experiences, and projects, it offers insights into my journey.",
       tags: [
         {
           name: "ReactThreeFiber",
