@@ -245,18 +245,19 @@ import {
     {
       name: "MY portfolio website",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Explore my web-based portfolio—a curated exhibit of my creative exploits and professional feats. Unveiling my skills, experiences, and projects, it offers insights into my journey.",
       tags: [
         {
-          name: "react",
+          name: "ReactThreeFiber",
           color: "blue-text-gradient",
         },
+          
         {
-          name: "restapi",
+          name: "TailwindCSS",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "FramerMotion",
           color: "pink-text-gradient",
         },
       ],
